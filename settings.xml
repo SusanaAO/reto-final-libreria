@@ -17,7 +17,7 @@
         </repository>
         <repository>
           <id>commons</id>
-          <url>https://maven.pkg.github.com/everisopennetworks/ffm-ne-back-jv-lib-commons</url>
+          <url>https://maven.pkg.github.com/SusanaAO/reto-final-libreria</url>
           <snapshots>
             <enabled>true</enabled>
           </snapshots>
